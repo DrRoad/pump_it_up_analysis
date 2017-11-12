@@ -59,6 +59,7 @@ Village water committees are the predominate management structure for water pump
 48 percent of water points without a payment scheme are non-functional, compared to only 25 percent of water points with a payment scheme being non-functional
 
 ![Functionality by Payment Scheme](img/functionality_by_payment.png)
+
 ![Legend](img/legend.png)
 
 ### Summary of Findings
