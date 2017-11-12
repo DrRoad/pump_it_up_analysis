@@ -38,7 +38,9 @@ The Iringa region has the greatest number of water points, as well as the highes
 
 Using a region-by-region heat map, we see that two regions in the southeast (Lindi and Mtwara) exhibit a higher proportion of non-functional water pumps
 
-![Non-Functionality by Region](img/functionality_by_region_table.png)
+![Non-Functionality by Region - table](img/functionality_by_region_table.png)
+
+![Non-Functionality by Region - heat map](img/region_heat_map.png)
 
 Segmenting the water points by water basin, the two Ruvuma/Southern Coast and Lake Rukwa water basins have a higher proportion of non-functional water points than fully functional water points
 
