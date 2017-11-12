@@ -26,23 +26,38 @@ For additional details related to data handling, please see the [data handling r
 ### Analysis
 Most water points are in small communities
 
-![Pumps by Community Size](img/dist_by_size.png)
+<!-- ![Pumps by Community Size](img/dist_by_size.png) -->
+
+<img src="img/dist_by_size.png"
+alt="Pumps by Community Size" width="75%" height="75%"/>
 
 Almost half of water points are either dysfunctional or need repairs
 
-![Functional Status](img/functional_status.png)
+<!-- ![Functional Status](img/functional_status.png) -->
+
+<img src="img/functional_status.png"
+alt="Functional Status" width="75%" height="75%"/>
 
 The Iringa region has the greatest number of water points, as well as the highest proportion of functional water points
 
-![Functionality by Region](img/functionality_by_region_bar.png)
+<!-- ![Functionality by Region](img/functionality_by_region_bar.png) -->
+
+<img src="img/functionality_by_region_bar.png"
+alt="Functionality by Region" width="75%" height="75%"/>
 
 Using a region-by-region heat map, we see that two regions in the southeast (Lindi and Mtwara) exhibit a higher proportion of non-functional water pumps
 
-![Non-Functionality by Region](img/functionality_by_region_table.png)
+<!-- ![Non-Functionality by Region](img/functionality_by_region_table.png) -->
+
+<img src="img/functionality_by_region_table.png"
+alt="Non-Functionality by Region" width="75%" height="75%"/>
 
 Segmenting the water points by water basin, the two Ruvuma/Southern Coast and Lake Rukwa water basins have a higher proportion of non-functional water points than fully functional water points
 
-![Functionality by Water Basin](img/functionality_by_basin.png)
+<!-- ![Functionality by Water Basin](img/functionality_by_basin.png) -->
+
+<img src="img/functionality_by_basin.png"
+alt="Functionality by Water Basin" width="75%" height="75%"/>
 
 The DWE is the dominant water point installer with 30 percent of all installations, and 80 percent of Finwater-installed pumps are dysfunctional
 
@@ -50,13 +65,23 @@ The DWE is the dominant water point installer with 30 percent of all installatio
 
 Village water committees are the predominate management structure for water pumps, however, 43 percent of all water points managed by VWCs are non-functional
 
-![Functionality by Management - table](img/functionality_by_mgmt_table.png)
+<!-- ![Functionality by Management - table](img/functionality_by_mgmt_table.png) -->
 
-![Functionality by Management - bar chart](img/functionality_by_mgmt_bar.png)
+<img src="img/functionality_by_mgmt_table.png"
+alt="Functionality by Management - table" width="75%" height="75%"/>
+
+<!-- ![Functionality by Management - bar chart](img/functionality_by_mgmt_bar.png) -->
+
+<img src="img/functionality_by_mgmt_bar.png"
+alt="Functionality by Management - bar chart" width="75%" height="75%"/>
 
 48 percent of water points without a payment scheme are non-functional, compared to only 25 percent of water points with a payment scheme being non-functional
 
-![Functionality by Payment Scheme](img/functionality_by_payment.png)
+<!-- ![Functionality by Payment Scheme](img/functionality_by_payment.png) -->
+
+<img src="img/functionality_by_payment.png"
+alt="Functionality by Payment Scheme" width="75%" height="75%"/><img src="img/legend.png"
+alt="Legend" width="50%" height="50%"/>
 
 ### Summary of Findings
 - The Lindi and Mtwara regions along the southeast coast of the country have the greatest proportion of non-functional pumps
